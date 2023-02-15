@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "shraddha Alat",
+      "mobile": "09307643196",
+      "age": "20",
+      "City": "",
+      "gender": "female",
+      "email": "shraddhaalat57@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "varsha",
+      "mobile": "454545",
+      "age": "",
+      "City": "",
+      "gender": "",
+      "email": "varsha@gmail.com",
+      "id": 4
+    }
+  ]
+}
